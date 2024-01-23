@@ -1,0 +1,2 @@
+# brickwaves
+Splashscreen for KDE
